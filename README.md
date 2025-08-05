@@ -1,4 +1,5 @@
 Directory structure:
+```
 └── shdhumale-simplereactreduxexample/
     └── my-app/
         ├── README.md
@@ -22,7 +23,7 @@ Directory structure:
             └── store/
                 └── reducer.js
 
-
+```
 ================================================
 FILE: my-app/README.md
 ================================================
